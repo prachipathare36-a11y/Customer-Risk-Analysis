@@ -3,8 +3,6 @@
 
 ## 1. Project Preview
 
-![Customer Risk Analysis Dashboard](Customer%20Risk%20Analysis.png)
-
 The Customer Risk Analysis Dashboard is an interactive Power BI dashboard designed to analyze customer churn and identify key factors that contribute to customer risk. The dashboard provides insights into customer behavior based on internet service, contract type, tenure, payment method, and monthly charges.
 
 ## 2. Key Features
