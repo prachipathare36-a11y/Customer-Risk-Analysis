@@ -7,8 +7,6 @@
 
 The Customer Risk Analysis Dashboard is an interactive Power BI dashboard designed to analyze customer churn and identify key factors that contribute to customer risk. The dashboard provides insights into customer behavior based on internet service, contract type, tenure, payment method, and monthly charges.
 
-
-
 ## 2. Key Features
 
 - Interactive churn analysis using filters and slicers.
@@ -20,12 +18,10 @@ The Customer Risk Analysis Dashboard is an interactive Power BI dashboard design
 - Churn analysis by payment method.
 - Key Performance Indicators (KPIs) for Total Customers, Churn Rate, Yearly Charges, Admin Tickets, and Tech Tickets.
 
-
 ## 3. Tools and Technologies Used
 
 - Power BI
 - Microsoft Excel
-
 
 ## 4. Project Workflow
 
@@ -39,7 +35,6 @@ Data Analysis
 ↓  
 Dashboard Creation
 
-
 ## 5. What This Project Demonstrates
 
 This project demonstrates the ability to:
@@ -51,7 +46,6 @@ This project demonstrates the ability to:
 - Identify patterns between customer churn, contracts, internet services, and payment methods.
 - Convert raw customer data into meaningful business insights.
 
-
 # 6. Story
 
 ## 📌 About the Data
@@ -61,8 +55,6 @@ The dataset contains customer demographic, service, billing, contract, and churn
 It includes customer details such as internet service, contract type, tenure, payment method, monthly charges, total charges, and support tickets.
 
 The data is used to understand customer behavior and identify factors associated with customer churn.
-
-
 
 ## 🔍 Business Problem Analysis
 
@@ -78,8 +70,6 @@ The analysis evaluates customer churn across different contract types to underst
 
 The analysis compares churn rates across payment methods to identify payment categories associated with higher customer churn.
 
-
-
 ## 📈 Key Conclusions
 
 ### 1. Fiber Optic Customers Have the Highest Churn Rate
@@ -94,15 +84,11 @@ Customers with a Month-to-Month contract have a churn rate of **42.71%**, sugges
 
 Customers using the Electronic Check payment method have the highest churn rate at **45.29%**, making this customer group a significant area for retention analysis.
 
-
-
 ## 📊 Overall Dashboard Insight
 
 The overall customer churn rate is **26.54%**.
 
 The dashboard helps identify high-risk customer segments and supports data-driven decision-making for improving customer retention strategies.
-
-
 
 ## 8. Dashboard KPIs
 
@@ -111,8 +97,6 @@ The dashboard helps identify high-risk customer segments and supports data-drive
 - **Yearly Charges:** $16.06M
 - **Admin Tickets:** 3,632
 - **Tech Tickets:** 2,955
-
-
 
 ## 👩‍💻 9. Author
 
